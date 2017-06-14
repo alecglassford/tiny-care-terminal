@@ -219,7 +219,6 @@ function makeBox(label) {
       type: 'line'  // or bg
     },
     style: {
-      fg: 'white',
       border: { fg: 'cyan' },
       hover: { border: { fg: 'green' }, }
     }
